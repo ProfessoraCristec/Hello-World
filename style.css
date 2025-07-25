@@ -3,13 +3,13 @@ h2{
 }
 
 body{
- background-color: #39A8CB; 
- color: white; 
- font-family: Roboto; 
- text-align:center;
+    background-color: #305050;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
 }
 
-<header>{
+header{
     border-bottom: 1px solid grey;
 }
 
@@ -17,7 +17,7 @@ footer{
     border-top: 1px solid grey;
 }
 
-#nome-usuario{
+#nome-usuário{
     font-weight: bold;
 }
 
